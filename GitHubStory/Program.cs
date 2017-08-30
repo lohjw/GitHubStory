@@ -12,7 +12,7 @@ namespace GitHubStory
         {
             Console.WriteLine("This is the first sentence.");
             Console.WriteLine("This is not the second sentence.");
-            Console.WriteLine("Sam");
+            Console.WriteLine("HAHAHAHA");
         }
     }
 }
