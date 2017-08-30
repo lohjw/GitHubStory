@@ -15,7 +15,6 @@ namespace GitHubStory
             Console.WriteLine("HAHAHAHA");
             Console.WriteLine("Go home la");
             Console.WriteLine("Chan");
-
         }
     }
 }
